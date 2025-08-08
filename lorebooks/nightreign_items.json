@@ -9,7 +9,7 @@
       ],
       "keysecondary": [],
       "comment": "night rune",
-      "content": "**Night Rune**\nType: Key Item\nDescription: Obtained by defeating Heolstor. Required for true ending. Can be used to permanently alter Limveld's fate. Multiple endings based on usage.",
+      "content": "**Night Rune**\nType: Great Rune | The First Shadow's Mark\n\"Before light, there was darkness. Before form, there was void. This is that truth made tangible.\"\n\nThe crystallized essence of primordial darkness, older than the Elden Ring itself. This rune predates concepts of order and chaos, representing the universe's original state. It pulses with negative light, casting shadows even in absolute darkness. Holding it feels like grasping the space between stars—cold, vast, and humming with potential endings.\n\n**Acquisition**: Carved from Heolstor's essence upon its defeat\n**Power**: Grants mastery over shadow and void, enables ending choices\n**Description**: A rune that appears to be a hole in reality itself, bordered by dying starlight\n**Lore**: \"The Greater Will brought order to chaos. But what brought chaos to the void? The Night Rune remembers.\" ",
       "constant": false,
       "selective": true,
       "order": 100,
