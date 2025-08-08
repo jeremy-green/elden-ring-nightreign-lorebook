@@ -1,6 +1,10 @@
+[Reading 58 lines from line 0 (total: 58 lines, 0 remaining)]
+
+[Reading 56 lines from line 0 (total: 57 lines, 1 remaining)]
+
 # 🌙 Elden Ring Nightreign Lorebook Collection
 
-Complete lorebook collection for Elden Ring Nightreign (standalone co-op game) for use in SillyTavern AI roleplay. 68 entries covering all game content through August 2025.
+Complete lorebook collection for Elden Ring Nightreign (standalone co-op game) for use in SillyTavern AI roleplay. 70 entries covering all game content through August 2025.
 
 ## 📦 Quick Start
 
@@ -12,9 +16,9 @@ Complete lorebook collection for Elden Ring Nightreign (standalone co-op game) f
 
 | File | Entries | Content |
 |------|---------|---------|
-| **nightreign_master_complete.json** | 68 | Everything (high token use) |
+| **nightreign_master_complete.json** | 70 | Everything (high token use) |
 | **nightreign_characters.json** | 16 | All 8 Nightfarers + NPCs |
-| **nightreign_bosses_enemies.json** | 17 | Nightlords + Everdark variants |
+| **nightreign_bosses_enemies.json** | 19 | Nightlords + Everdark variants |
 | **nightreign_mechanics.json** | 14 | Game systems, endings, progression |
 | **nightreign_locations.json** | 10 | Limveld areas |
 | **nightreign_items.json** | 11 | Relics, equipment, currencies |
