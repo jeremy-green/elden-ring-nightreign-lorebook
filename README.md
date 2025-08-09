@@ -30,14 +30,16 @@ Case Sensitive: OFF
 
 ## 📚 Available Lorebooks
 
-| File | Entries | Description | Best For |
-|------|---------|-------------|----------|
-| **nightreign_master_complete.json** | 70 | Everything in one file (use with caution) | Large context models |
-| **nightreign_characters.json** | 16 | All 8 Nightfarers + NPCs | Character interactions |
-| **nightreign_bosses_enemies.json** | 19 | Nightlords + Everdark Sovereigns | Boss encounters |
-| **nightreign_mechanics.json** | 14 | Game systems, endings, Night's Tide | Understanding mechanics |
-| **nightreign_locations.json** | 10 | Limveld areas and landmarks | Exploration RP |
-| **nightreign_items.json** | 11 | Relics, equipment, currencies | Loot and progression |
+| File | Entries | UID Range | Description | Best For |
+|------|---------|-----------|-------------|----------|
+| **nightreign_master_complete.json** | 70 | 0-69 | Everything in one file (use with caution) | Large context models |
+| **nightreign_characters.json** | 16 | 19-34 | All 8 Nightfarers + NPCs | Character interactions |
+| **nightreign_bosses_enemies.json** | 19 | 0-18 | Nightlords + Everdark Sovereigns | Boss encounters |
+| **nightreign_mechanics.json** | 14 | 35-48 | Game systems, endings, Night's Tide | Understanding mechanics |
+| **nightreign_locations.json** | 10 | 49-58 | Limveld areas and landmarks | Exploration RP |
+| **nightreign_items.json** | 11 | 59-69 | Relics, equipment, currencies | Loot and progression |
+
+> **⚠️ Important:** Individual lorebook files now use non-overlapping UID ranges, allowing multiple files to be loaded simultaneously without conflicts.
 
 ## 🎮 Usage Examples
 
@@ -55,7 +57,8 @@ Load: `nightreign_characters` + `nightreign_locations`
 
 ## 💡 Tips
 
-- **Never load more than 3 lorebooks** simultaneously
+- **Load multiple lorebooks safely** - Individual files now have non-overlapping UIDs
+- **Recommended: 2-3 lorebooks** simultaneously for optimal token usage
 - **The master file** should only be used with 8k+ context models
 - **Switch lorebooks** as your expedition progresses through days
 - **Remember:** This is a roguelike, not a souls-like

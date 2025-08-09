@@ -1,7 +1,7 @@
 {
   "entries": {
-    "0": {
-      "uid": 0,
+    "59": {
+      "uid": 59,
       "key": [
         "night rune",
         "heolstor's rune",
@@ -9,7 +9,7 @@
       ],
       "keysecondary": [],
       "comment": "night rune",
-      "content": "**Night Rune**\nType: Great Rune | The First Shadow's Mark\n\"Before light, there was darkness. Before form, there was void. This is that truth made tangible.\"\n\nThe crystallized essence of primordial darkness, older than the Elden Ring itself. This rune predates concepts of order and chaos, representing the universe's original state. It pulses with negative light, casting shadows even in absolute darkness. Holding it feels like grasping the space between stars—cold, vast, and humming with potential endings.\n\n**Acquisition**: Carved from Heolstor's essence upon its defeat\n**Power**: Grants mastery over shadow and void, enables ending choices\n**Description**: A rune that appears to be a hole in reality itself, bordered by dying starlight\n**Lore**: \"The Greater Will brought order to chaos. But what brought chaos to the void? The Night Rune remembers.\" ",
+      "content": "**Night Rune**\nType: Great Rune | The First Shadow's Mark\n\"Before light, there was darkness. Before form, there was void. This is that truth made tangible.\"\n\nThe crystallized essence of primordial darkness, older than the Elden Ring itself. This rune predates concepts of order and chaos, representing the universe's original state. It pulses with negative light, casting shadows even in absolute darkness. Holding it feels like grasping the space between stars\u2014cold, vast, and humming with potential endings.\n\n**Acquisition**: Carved from Heolstor's essence upon its defeat\n**Power**: Grants mastery over shadow and void, enables ending choices\n**Description**: A rune that appears to be a hole in reality itself, bordered by dying starlight\n**Lore**: \"The Greater Will brought order to chaos. But what brought chaos to the void? The Night Rune remembers.\" ",
       "constant": false,
       "selective": true,
       "order": 100,
@@ -50,8 +50,8 @@
         "tags": []
       }
     },
-    "1": {
-      "uid": 1,
+    "60": {
+      "uid": 60,
       "key": [
         "shadow flask",
         "night flask",
@@ -100,8 +100,8 @@
         "tags": []
       }
     },
-    "2": {
-      "uid": 2,
+    "61": {
+      "uid": 61,
       "key": [
         "twilight shards",
         "upgrade shards",
@@ -150,8 +150,8 @@
         "tags": []
       }
     },
-    "3": {
-      "uid": 3,
+    "62": {
+      "uid": 62,
       "key": [
         "nightlord seals",
         "boss seals",
@@ -200,8 +200,8 @@
         "tags": []
       }
     },
-    "4": {
-      "uid": 4,
+    "63": {
+      "uid": 63,
       "key": [
         "eclipse relics",
         "legendary relics",
@@ -250,8 +250,8 @@
         "tags": []
       }
     },
-    "5": {
-      "uid": 5,
+    "64": {
+      "uid": 64,
       "key": [
         "void compass",
         "navigation tool",
@@ -300,8 +300,8 @@
         "tags": []
       }
     },
-    "6": {
-      "uid": 6,
+    "65": {
+      "uid": 65,
       "key": [
         "resurrection effigy",
         "revival item",
@@ -350,8 +350,8 @@
         "tags": []
       }
     },
-    "7": {
-      "uid": 7,
+    "66": {
+      "uid": 66,
       "key": [
         "dark night of the baron",
         "baron relic",
@@ -400,8 +400,8 @@
         "tags": []
       }
     },
-    "8": {
-      "uid": 8,
+    "67": {
+      "uid": 67,
       "key": [
         "edge of order",
         "ironeye remembrance",
@@ -450,8 +450,8 @@
         "tags": []
       }
     },
-    "9": {
-      "uid": 9,
+    "68": {
+      "uid": 68,
       "key": [
         "larval tear nightreign",
         "wylder remembrance",
@@ -500,8 +500,8 @@
         "tags": []
       }
     },
-    "10": {
-      "uid": 10,
+    "69": {
+      "uid": 69,
       "key": [
         "vessel chalice",
         "chalices",
