@@ -1,3 +1,6 @@
+# Claude Code configuration
+.claude/
+
 # OS Files
 .DS_Store
 Thumbs.db
